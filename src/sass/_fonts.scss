@@ -91,3 +91,42 @@
   url('../font/fira-sans-v8-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
   url('../font/fira-sans-v8-latin-700.svg#FiraSans') format('svg'); /* Legacy iOS */
 }
+/* anektamil-regular - latin */
+@font-face {
+  font-family: 'Anek Tamil';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../font/anektamil-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Anek Tamil Regular'), local('AnekTamil-Regular'),
+  url('../font/anektamil-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../font/anektamil-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../font/anektamil-latin-regular.woff') format('woff'), /* Modern Browsers */
+  url('../font/anektamil-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../font/anektamil-latin-regular.svg#FiraSans') format('svg'); /* Legacy iOS */
+}
+/* anektamil-500 - latin */
+@font-face {
+  font-family: 'Anek Tamil';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../font/anektamil-latin-500.eot'); /* IE9 Compat Modes */
+  src: local('Anek Tamil Medium'), local('AnekTamil-Medium'),
+  url('../font/anektamil-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../font/anektamil-latin-500.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../font/anektamil-latin-500.woff') format('woff'), /* Modern Browsers */
+  url('../font/anektamil-latin-500.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../font/anektamil-latin-500.svg#FiraSans') format('svg'); /* Legacy iOS */
+}
+/* anektamil-700 - latin */
+@font-face {
+  font-family: 'Anek Tamil';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../font/anektamil-latin-700.eot'); /* IE9 Compat Modes */
+  src: local('Anek Tamil Bold'), local('AnekTamil-Bold'),
+  url('../font/anektamil-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../font/anektamil-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../font/anektamil-latin-700.woff') format('woff'), /* Modern Browsers */
+  url('../font/anektamil-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../font/anektamil-latin-700.svg#FiraSans') format('svg'); /* Legacy iOS */
+}
